@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodCart Admin</string>
+
+    <string-array name="category">
+        <item>Sandvich</item>
+        <item>Salads</item>
+        <item>Burgers</item>
+        <item>Pizza</item>
+        <item>Soups</item>
+        <item>Noodles</item>
+        <item>Rice</item>
+        <item>Dosas</item>
+    </string-array>
+
+</resources>
